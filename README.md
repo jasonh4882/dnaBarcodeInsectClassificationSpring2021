@@ -1,12 +1,12 @@
 # Data Mining Insect DNA Barcode Classification
 
-## Description
+## Description ##
 
 This project was done as an end-of-term assignment for 
 CSCI 48100 offered at IUPUI in the Spring of 2021.
-All of the project guidlines can be found in the 
+All of the project guidelines can be found in the 
 [CSCI_481_Project_Guidelines](CSCI_481_Project_Guidelines.pdf) PDF Document.
-The goal of this project was to analize a set of test data
+The goal of this project was to analyze a set of test data
 and make prediction on what insect species/genus the sequence belonged to.
 
 The predictions were to be made off of the following variables:
@@ -24,20 +24,17 @@ PDF Document mentioned above.
    
 ## Software
 
-[Mathworks MATLAB](https://www.mathworks.com/products/matlab.html) 
-was used to write and run all of the scripts. 
+[Mathworks MATLAB](https://www.mathworks.com/products/matlab.html) was used to write and run all of the scripts. 
 
 All writeups were done on [Overleaf](www.overleaf.com) browser LaTeX editor
 
-An unarchiving software will be needed to unpack the models. 
-[WinRAR](https://www.win-rar.com/start.html?&L=0) was used in the case of creating the archive.
+An unarchiving software will be needed to unpack the models. [WinRAR](https://www.win-rar.com/start.html?&L=0) was used in the case of creating the archive.
 
 ## Installation
 
 1. Download and install Mathworks MATLAB  
-programming and numeric computing platform R2021a or later. 
+programming and numeric computing platform R2021a or later.  
 *(Please note that this is a paid software, but a free trial is available)*
-1. 
 1. to import the data, click the *Import Data* option located in 
 **Home>Variable**
 1. select all desired data. please note that due to their size,
